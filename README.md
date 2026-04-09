@@ -2,9 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-moreira-079b72331/)
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusTMoreira&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTMoreira&size_weight=0.5&count_weight=0.5)
 
 ### My Skill Set
 
